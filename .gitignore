@@ -1,0 +1,18 @@
+# Build output
+build/
+dist/
+*.spec
+
+# Downloaded chord images
+chords/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS
+Thumbs.db
+.DS_Store
